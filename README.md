@@ -1,13 +1,8 @@
-HTTP Auth Interceptor Module
+HTTP Auth Interceptor Module for AngularJS v1.3.x
 ============================
-for AngularJS
--------------
 
-This is the implementation of the concept described in
-[Authentication in AngularJS (or similar) based application](http://www.espeo.pl/1-authentication-in-angularjs-application/).
-
-There are releases for both AngularJS **1.0.x** and **1.2.x**,
-see [releases](https://github.com/witoldsz/angular-http-auth/releases).
+This is forked from:
+[witoldsz/angular-http-auth](https://github.com/witoldsz/angular-http-auth/).
 
 Launch demo [here](http://witoldsz.github.com/angular-http-auth/)
 or switch to [gh-pages](https://github.com/witoldsz/angular-http-auth/tree/gh-pages)
