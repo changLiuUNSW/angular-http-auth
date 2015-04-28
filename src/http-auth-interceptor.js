@@ -2,7 +2,8 @@
 
 /**
  * @license HTTP Auth Interceptor Module for AngularJS
- * (c) 2012 Witold Szczerba
+ * (c) 2015 Chang Liu
+ * Angular 1.3
  * License: MIT
  */
 (function () {
